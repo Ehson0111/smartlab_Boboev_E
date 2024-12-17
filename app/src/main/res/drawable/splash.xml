@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Фоновый цвет -->
+    <item android:drawable="@color/white" />
+
+    <!-- Логотип или изображение -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/zastavk1" />
+    </item>
+</layer-list>

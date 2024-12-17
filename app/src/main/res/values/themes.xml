@@ -1,0 +1,11 @@
+<resources>
+    <!-- Основная тема приложения -->
+    <style name="Theme.Pr23_smartlab_Boboev_E_" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Настройки вашей основной темы -->
+
+    </style>
+
+    <!-- Тема для сплэш-скрина -->
+    <style name="Theme.Pr23_smartlab_Boboev_E_.Splash" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+</resources>
